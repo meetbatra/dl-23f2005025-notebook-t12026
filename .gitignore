@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.env
+*.pth
+.ipynb_checkpoints/
+dist/
+build/
+*.egg-info/
+venv/
+.venv/
+node_modules/
+.DS_Store
+models/*
+!models/.gitkeep
+!models/README.md
+
